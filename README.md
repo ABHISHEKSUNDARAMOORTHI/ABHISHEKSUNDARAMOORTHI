@@ -1,39 +1,75 @@
-# 💫 About Me:
-I'm currently working on python projects specialised on AI<br>I'm currently learning data science and pyspark
+# 👋 Hello, I'm Abhishek Sundaramoorthi!
 
+🎯 **Aspiring Azure Data Engineer** | 🧠 Exploring Gen AI | ☁️ Cloud & Big Data Enthusiast  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sundaramoorthi-a59942239/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheksndr@gmail.com)
+I’m currently working on projects that combine **Generative AI** and **Data Engineering**, focusing on building scalable solutions with cloud-native tools. I’m passionate about working on real-world data problems, cloud infrastructures, and automation workflows — with an eye on the future of AI in big data.
 
-# 💻 Tech Stack:
+---
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+## 💼 What I'm Up To
 
-### Data Engineering & Cloud:
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-244D66?style=plastic&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-005D9F?style=plastic&logo=deltalake&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
-![Azure Data Lake Storage Gen2](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen2-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
+- 🚀 Building projects in **Generative AI + Data Engineering**
+- 🧩 Enhancing skills in **PySpark**, **Azure**, and **Cloud Architecture**
+- 📘 Learning advanced concepts in **Data Science**, **ML Ops**, and **Cloud Integration**
 
-### Tools & Frameworks:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-%23000000.svg?style=plastic&logo=yolo&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABHISHEKSUNDARAMOORTHI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ABHISHEKSUNDARAMOORTHI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKSUNDARAMOORTHI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Data Engineering:
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-005D9F?style=for-the-badge&logo=deltalake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🛠️ Tools & Libraries:
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sundaramoorthi-a59942239/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksndr@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ABHISHEKSUNDARAMOORTHI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKSUNDARAMOORTHI&theme=tokyonight&hide_border=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=ABHISHEKSUNDARAMOORTHI&theme=tokyonight&hide_border=false)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABHISHEKSUNDARAMOORTHI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+![](https://github-profile-trophy.vercel.app/?username=ABHISHEKSUNDARAMOORTHI&theme=gruvbox&no-bg=true&no-frame=true&column=6)
+
+---
+
+## 💬 Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ABHISHEKSUNDARAMOORTHI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔍 Interests
+
+- ☁️ **Cloud Computing (Azure)**
+- 🧠 **Generative AI & LLMs**
+- 🏗️ **Big Data & ETL Pipelines**
+- 📈 **Real-time Data Processing**
+- 🧪 **Experimenting with AI workflows and automation**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ABHISHEKSUNDARAMOORTHI&icon=0&color=1)](https://visitcount.itsvg.in)
+
